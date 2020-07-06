@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "177498417818",
+    "firebase_url": "https://finalschoolappdbasesystem.firebaseio.com",
+    "project_id": "finalschoolappdbasesystem",
+    "storage_bucket": "finalschoolappdbasesystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177498417818:android:bad048a92ec2dcd53c8d23",
+        "android_client_info": {
+          "package_name": "com.example.finalschoolappdbasesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177498417818-smj6bung8lp3suosuoopvtlssa920pd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqReghslQkuugFz-GJMQI5Gci-pYJz5AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177498417818-smj6bung8lp3suosuoopvtlssa920pd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
